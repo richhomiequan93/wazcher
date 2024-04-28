@@ -3,7 +3,7 @@
   "symbol": "WTV",
   "description": " Updated A bunch of TV NFTs",
   "seller_fee_basis_points": 100,
-  "image": "1.png",
+  "image": "https://raw.githubusercontent.com/richhomiequan93/wazcher/main/1.png",
   "external_url": "http://wazcher.com/",
   "edition": 1,
   "Collection": {
