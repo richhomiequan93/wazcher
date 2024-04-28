@@ -3,14 +3,8 @@
   "symbol": "WTV",
   "description": "A bunch of TV NFTs",
   "seller_fee_basis_points": 100,
-  "image": "11.png",
+  "image": "https://arweave.net/wKU5X9XQwdmKTCU0eqwUlMJ0B45VWlJ-WuQ6-37cb5I?ext=png",
   "external_url": "http://wazcher.com/",
-  "edition": 11,
-  "Collection": {
-    "name": "Wazcher TV",
-    "family": "Wazcher's TV NFTs"
-  },
-  "level": 0,
   "attributes": [
     {
       "trait_type": "TV_Box",
@@ -20,10 +14,16 @@
   "properties": {
     "files": [
       {
-        "uri": "11.png",
+        "uri": "https://arweave.net/wKU5X9XQwdmKTCU0eqwUlMJ0B45VWlJ-WuQ6-37cb5I?ext=png",
         "type": "image/png"
       }
     ],
     "category": "image"
-  }
+  },
+  "Collection": {
+    "family": "Wazcher's TV NFTs",
+    "name": "Wazcher TV"
+  },
+  "level": 1,
+  "edition": 11
 }
