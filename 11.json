@@ -1,0 +1,29 @@
+{
+  "name": "Wazcher TV NFT #11",
+  "symbol": "WTV",
+  "description": "A bunch of TV NFTs",
+  "seller_fee_basis_points": 100,
+  "image": "11.png",
+  "external_url": "http://wazcher.com/",
+  "edition": 11,
+  "Collection": {
+    "name": "Wazcher TV",
+    "family": "Wazcher's TV NFTs"
+  },
+  "level": 0,
+  "attributes": [
+    {
+      "trait_type": "TV_Box",
+      "value": "Rainbow2 "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "11.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
