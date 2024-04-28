@@ -1,0 +1,29 @@
+{
+  "name": "Updated Wazcher TV NFT #1",
+  "symbol": "WTV",
+  "description": " Updated A bunch of TV NFTs",
+  "seller_fee_basis_points": 100,
+  "image": "1.png",
+  "external_url": "http://wazcher.com/",
+  "edition": 1,
+  "Collection": {
+    "name": "Wazcher TV",
+    "family": "Wazcher's TV NFTs"
+  },
+  "level": 20,
+  "attributes": [
+    {
+      "trait_type": "TV_Box",
+      "value": "Spark Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
